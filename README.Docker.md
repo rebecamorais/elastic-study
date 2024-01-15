@@ -3,6 +3,8 @@
 When you're ready, start your application by running:
 `docker compose up --build`.
 
+Acesse: http://localhost:5601/ com o usuário elastic e a senha definida no seu .env
+
 ### Deploying your application to the cloud
 
 First, build your image, e.g.: `docker build -t myapp .`.
